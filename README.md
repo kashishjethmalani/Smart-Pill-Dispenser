@@ -1,1 +1,1 @@
-# Smart-Pill-Dispenser
+This includes the arduino code to run (byj) stepper motor, lcd display, and buzzer.
